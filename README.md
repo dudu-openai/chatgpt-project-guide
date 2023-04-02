@@ -7,15 +7,15 @@ OpenSource ChatGPT Project List 这儿为你准备了各种开发语言的SDK和
 
 > 推荐指数：⭐⭐⭐，部署难易度：⭐
 >
-> 技术栈：前端（Vue）+后端（Node）
+> 项目内容：前端（Vue）+后端（Node）
 >
-> 推荐理由：最早开源的Gpt前后端项目，UI简洁，部署文档详细
+> 推荐理由：最早开源的ChatGpt前后端项目，UI简洁，部署文档详细
 
 2. **[Yidadaa/ChatGPT-Next-Web](https://github.com/Yidadaa/ChatGPT-Next-Web)**
 
 > 推荐指数：⭐⭐⭐，部署难易度：⭐
 >
-> 技术栈：前端（TypeScript）+ 后端（TypeScript）
+> 项目内容：前端（TypeScript）+ 后端（TypeScript）
 >
 > 推荐理由：更新速度很快，一键免费部署你的私人 ChatGPT 网页应用
 >
@@ -24,7 +24,7 @@ OpenSource ChatGPT Project List 这儿为你准备了各种开发语言的SDK和
 
 > 推荐指数：⭐
 >
-> 技术栈：后端（Java）+ 管理端（Java）
+> 项目内容：后端（Java）+ 管理端（Java）
 >
 > 推荐理由：基于Chanzhaoyu/chatgpt-web 项目的 改写的Java 后端，同时还搞了一个简单的管理端界面
 >
@@ -33,7 +33,7 @@ OpenSource ChatGPT Project List 这儿为你准备了各种开发语言的SDK和
 
 > 推荐指数：⭐
 >
-> 技术栈：前端（Vue）+ 后端（Java）
+> 项目内容：前端（Vue）+ 后端（Java）+ 管理端（Java）
 >
 > 推荐理由：简单ChatGPT对话客户端，管理端前端代码未开放
 >
