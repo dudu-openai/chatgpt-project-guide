@@ -1,9 +1,9 @@
 # ChatGpt OpenSource Project List
-这儿为你准备了各种开发语言的SDK和开源的ChatGpt项目推荐，快来看看吧
+**这儿为你准备了各种开发语言的SDK和开源的ChatGpt项目推荐，快来看看吧**
 
-**分享项目**、**标注错误**，请[🌺点此🌺](https://github.com/dudu-openai/chatgpt-project-guide/issues)告诉我
+**分享项目、标注错误，请[🌺点此🌺](https://github.com/dudu-openai/chatgpt-project-guide/issues)告诉我**，
 
-⭐: 项目评价满分为三星 😃
+**不间断更新，分享不易，欢迎点个Star❤️，找项目不迷路** 😃
 
 ------
 
